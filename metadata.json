@@ -1,0 +1,6 @@
+{
+  "name": "City Runner",
+  "description": "An endless runner game taking place in various cities across the world.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

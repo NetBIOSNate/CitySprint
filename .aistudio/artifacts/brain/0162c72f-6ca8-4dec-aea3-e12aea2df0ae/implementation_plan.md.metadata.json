@@ -1,0 +1,6 @@
+{
+  "summary":  "Implementation plan for hold-to-turn street direction changes, full-street construction roadblocks, pre-loaded 3D city block intersections, 1:1 real-life proportional scaling of all obstacles/trees/cones relative to the runner, animated sidewalk pedestrians, and native 120 FPS rendering.",
+  "updatedAt":  "2026-10-22T00:59:52.106191533Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
